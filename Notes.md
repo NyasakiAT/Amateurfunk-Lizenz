@@ -156,3 +156,32 @@ wird ein Magnetfeld aufgebaut, das dieser Stromänderung entgegenwirkt.
 
 Bei höheren Frequenzen wird der Stromfluss durch die Gegeninduktion immer mehr aus der Mitte des Leiters zum Rand hin abgedrängt.
 Strom fließt praktisch nur mehr auf der Außenhaut des Leiters (skin).
+
+
+
+### Gleich- und Wechselspannung
+
+**Gleichspannung:**
+Die Spannung ist konstant, die Polarität verändert sich nicht.
+
+**Wechselspannung:**
+Bei Wechselspannung verändert sich die Polarität der Spannung.
+Das bekannteste Beispiel ist die 230 Volt-Wechselspannung aus der Steckdose
+
+Der **Spitzen- oder Scheitelwert** ist der größte Betrag der Augenblickswerte eines
+Wechselsignals
+
+Der **Spitze-Spitze-Wert** gibt die höhe der Auslenkung vom niedrigsten zum höchsten Wert.
+Bei **symmetrischen** Wechselgrößen entspricht der Spitze-Spitze-Wert dem doppelten Maximalwert.
+
+Unter dem **Effektivwert** (root mean square, **RMS**) versteht man die Wurzel aus dem Quadratischen Mittelwert eines zeitlich veränderlichen Signals.
+Zu einer Wechselgröße (Wechselstrom, Wechselspannung) gibt der Effektivwert 
+denjenigen Wert einer Gleichgröße an, die an einem ohmschen Verbraucher in einer vorgegebenen Zeit dieselbe Leistung umsetzt.
+Der Effektivwert hängt sowohl vom Scheitelwert (Amplitude) als auch von der 
+Kurvenform ab.
+
+**Periodendauer:** ist jene Zeit bis sich die Periode von neuem wiederholt.
+
+Weitere wichtige Kenngrößen des Wechselstroms sind die **Spannung** (Amplitude),
+**Frequenz** (Schwingungen pro Sekunde), **Kurvenform** (Sinus, Dreieck, Rechteck) und
+**Strombelastbarkeit** der Quelle.
